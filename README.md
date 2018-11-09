@@ -3,9 +3,9 @@ Arduino compatible DHT 11/22, AM2302 lib with dewpoint, heat-index and other goo
 
 ##Features
 
-1. Autodetection of sensor type
-2. Read humidity and temperature in one function call.
-3. Determine heat index in *C or *F
+1. Autodetección del tipo de sensor
+2. Leer humedad y temperatura en una llamada de función.
+3. Determine el calor en * C o * F
 4. Determine dewpoint with various algorithms(speed vs accuracy)
 5. Determine thermal comfort
   * Empiric comfort function based on comfort profiles
